@@ -1,8 +1,8 @@
 
 
-Hello and welcome to the repository of the scripts from my master thesis: 'Elliptic curves: various models and their addition laws'.  Have some fun playing around with the scripts and hopefully you can find something helpful for you here.
+Hello and welcome to the repository of the scripts from my master thesis: 'Elliptic curves: various models and their addition laws'.  Have some fun playing around with the scripts and hopefully you can find something helpful to you here.
 
-All '.m' files are ready to be run in \MAGMA and, in most cases, their computational time also allows to run them in MAGMA's online calculator. For the script where the computational time is too long the the output is available in this repository.
+All '.m' files are ready to be run in MAGMA and, in most cases, their computational time also allows to run them in MAGMA's online calculator. For the script where the computational time is too long the output is available in this repository.
 
 --> Link to MAGMA's online calculator: https://magma.maths.usyd.edu.au/calc
 
@@ -11,6 +11,7 @@ For those interested in running some of the scripts in the online calculator, be
 	   load "../../functions.m";
 	   //load Ead_AddL, Ead_AddL_evals, ProjCoord, AffCoord
 
+For any questions feel free to contact me on my email: m_ps93@hotmail.com.
 	   
 //~ Notation ~//	   
 
